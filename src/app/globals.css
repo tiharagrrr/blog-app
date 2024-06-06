@@ -25,6 +25,14 @@ a {
     text-decoration: none;
 }
 
+.light{
+    --bg: #222831; 
+--textColor: #fff; 
+--softBg: #393e46; 
+--softTextColor: #a6b2bf;
+
+}
+
 .container {
     min-height: 100vh;
     background-color: var(--bg);

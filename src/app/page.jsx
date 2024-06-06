@@ -1,4 +1,4 @@
-import Link from "next/link";
+  import Link from "next/link";
 import styles from "./homepage.module.css";
 import Navbar from "@/components/featured/Featured";
 import Footer from "@/components/footer/Footer";
