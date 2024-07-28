@@ -3,13 +3,15 @@
     --textColor:black;
     --softBg:#f0f0f0;
     --softTextColor: #626262; */
-    --bg: #e5f0fd;
-    --textColor: #333;
-    --softBg: #d0e3f0;
-    --softTextColor: #6699cc;
+    --bg: #d3f5f8;
+    --textColor: #031516;
+    --softBg: #d6d2f9;
+    --softTextColor: #6c5ee8;
+   
 }
 
 *{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     margin: 0;
     padding: 0;
     box-sizing: border-box;
@@ -25,11 +27,12 @@ a {
     text-decoration: none;
 }
 
-.light{
-    --bg: #222831; 
---textColor: #fff; 
---softBg: #393e46; 
---softTextColor: #a6b2bf;
+.dark{
+    --bg: #020c0d;           /* Dark background */
+    --textColor: #e5fafb;   /* Light text color for contrast */
+    --softBg: #2c2a4a;       /* Softer background with a dark purple hue */
+    --softTextColor: #a7a3ff; /* Softer text color with a light violet-blue */
+    
 
 }
 
